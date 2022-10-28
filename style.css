@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(197, 240, 226);
+}
+
+h1{
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+.pasos{
+    background-color: blueviolet;
+    border: solid orange;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+p{
+    width: auto;
+}
+p a{
+    padding: 2px 10px 2px 10px;
+    text-decoration: none;
+    color: black;
+    border: solid rgb(126, 200, 223);
+}
+
+p a:hover{
+    text-decoration: underline;
+    background-color: rgb(126, 200, 223);
+    border: solid rgb(223, 184, 126);
+}
+
+video{
+    margin-left: 20px;
+    width: 75%;
+    height: auto;
+}
+
+#menu li{
+    display: inline;
+    margin-left: 10px;
+
+}
+#menu li a {
+    padding: 2px 10px 2px 10px;
+    color: rgb(63, 105, 15);
+    background-color: #eeeeee;
+    border: 1px solid #ccc;
+    text-decoration: none;
+ }
+
+ #menu li a:hover{
+    color: #df933c;
+    text-decoration: underline;
+ }
+
+.ingredientes{
+    border: solid rgb(0, 98, 128);
+    background-color: rgb(81, 165, 42);
+    display: inline-block;
+}
+
+ul{
+    list-style-type: none;
+}
+
